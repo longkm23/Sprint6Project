@@ -1,0 +1,5 @@
+This project is my first opportunity to explore virtual environments, miniconda orgrams, and app rendering with TripleTen's Data Analytics Program. I sourced a free dataset about Taylor Swift Song Tracks from Kaggle.com, explored the data using an EDA.ipynb notebook, and built several different figures and user interactive modules to simulate random events and highlight different aspects of Ms. Swift's music.
+
+The full list of programs and the versions used can be found in the requirements.txt file of the directory, while al of the data exploration, cleaning, chart building, and streamlit work happened in VSCOde. I pulled inspiration from the program workshop, and was able to use those skills in a dataset that was more relevant and interesting to me.
+
+Throught the EDA.ipynb file, I tried to give brief descriptions of the charts and steps used to make it a user friendly experience on the on both the back end for the reviewer and the front end for a user. Any notes about changes I made or fixes/updates performed will be embedded both there, and in the commit notes.
